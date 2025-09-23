@@ -1,6 +1,6 @@
 [submodule "oh-my-zsh/.oh-my-zsh"]
 	path = oh-my-zsh/.oh-my-zsh
-	url = https://github.com/ohmyzsh/ohmyzsh.git
+	url = https://github.com/Tsaiqu/ohmyzsh.git
 [submodule "nvim/.config/nvim"]
 	path = nvim/.config/nvim
-	url = https://github.com/nvim-lua/kickstart.nvim.git
+	url = https://github.com/Tsaiqu/kickstart.nvim.git
