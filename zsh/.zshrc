@@ -106,20 +106,32 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+# "alias" do użycia w sposób -> `o ~/foo`
+# otworzy to w przeglądarce plików folder `~/foo`
+function o() {
+    xdg-open "${1:-.}" >/dev/null 2>&1 &
+}
+
 eval "$(starship init zsh)"
+
+export PYENV_ROOT="$HOME/.pyenv"
+[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init - zsh)"
+
+export XDG_CURRENT_DESKTOP=niri
+export DESKTOP_SESSION=niri
+
+export PATH="$PATH:$HOME/.local/bin"
+. "$HOME/.cargo/env"
+
 eval "$(zoxide init --cmd cd zsh)"
 
 export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
-# Adding some things to PATH var
-export PATH="/home/tsaiqu/.local/bin:$PATH"
-export PATH="/usr/local/go/bin:$PATH"
+fpath+=~/.zfunc
 
-# Pyenv setup
-export PATH="$HOME/.pyenv/bin:$PATH"
-eval "$(pyenv init -)"
-
-# Gemini
-[ -f ~/.zsh_secrets ] && source ~/.zsh_secrets
+# SSH agent
+eval "$(ssh-agent -s)" > /dev/null
