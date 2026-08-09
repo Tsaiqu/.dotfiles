@@ -1,0 +1,19 @@
+onboarding = false
+
+[ui.toast]
+delivery = "system"
+
+[ui]
+show_agent_labels_on_pane_borders = true
+
+[keys]
+prefix = "ctrl+space"
+switch_tab = "alt+1..9"
+switch_workspace = "prefix+1..9"
+focus_agent = "prefix+alt+1..9"
+
+[advanced]
+scrollback_limit_bytes = 10485760 
+
+[ui.sound]
+enabled = false

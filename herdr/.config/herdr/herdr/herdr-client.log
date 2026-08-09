@@ -1,0 +1,149 @@
+2026-07-10T09:37:29.170646Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=50212
+2026-07-10T09:37:29.170682Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-10T09:37:29.400280Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-10T09:38:32.512875Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=50212
+2026-07-10T09:38:37.226065Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=51848
+2026-07-10T09:38:37.226095Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-10T09:38:37.470240Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-10T09:40:38.338076Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=51848
+2026-07-10T09:40:44.152745Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=52816
+2026-07-10T09:40:44.152775Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-10T09:40:44.382715Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-10T09:42:11.788885Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=52816
+2026-07-10T09:42:14.668886Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=54071
+2026-07-10T09:42:14.668918Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-10T09:42:14.820004Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-10T18:11:05.005056Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=54071
+2026-07-11T15:48:51.552507Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=31924
+2026-07-11T15:48:51.553100Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-11T15:48:51.787905Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-11T22:32:59.391004Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=31924
+2026-07-12T10:12:47.274102Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=5623
+2026-07-12T10:12:47.274832Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-12T10:12:47.499637Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-14T06:13:23.173860Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=3049
+2026-07-14T06:13:23.174633Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-14T06:13:23.405144Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-14T20:32:49.696522Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=3049
+2026-07-15T06:17:40.575917Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=4370
+2026-07-15T06:17:40.576631Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-15T06:17:40.796545Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-15T08:01:46.776039Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=4370
+2026-07-15T08:02:49.244200Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=2737
+2026-07-15T08:02:49.244404Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-15T08:02:49.247957Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-15T14:12:05.615578Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=2737
+2026-07-15T15:18:04.504682Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=3842
+2026-07-15T15:18:04.505372Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-15T15:18:04.723855Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-15T16:23:20.898639Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=3842
+2026-07-16T05:46:03.338199Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=3643
+2026-07-16T05:46:03.348037Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-16T05:46:03.564228Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-16T05:46:24.433144Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=3643
+2026-07-16T05:46:57.315795Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=8315
+2026-07-16T05:46:57.315875Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-16T05:46:57.525672Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-16T06:48:16.085530Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=8315
+2026-07-16T07:26:50.442078Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=4670
+2026-07-16T07:26:50.442785Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-16T07:26:50.664482Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-16T13:05:39.958651Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=4670
+2026-07-16T13:47:12.200182Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=3481
+2026-07-16T13:47:12.200985Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-16T13:47:12.428954Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-16T15:04:19.297037Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=3481
+2026-07-20T07:33:16.763097Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=3529
+2026-07-20T07:33:16.763747Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-20T07:33:16.983490Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-20T16:06:30.761370Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=3529
+2026-07-21T08:14:05.394693Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=3052
+2026-07-21T08:14:05.395409Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-21T08:14:05.611567Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-21T09:33:00.243352Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=3052
+2026-07-21T12:47:09.147782Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=7353
+2026-07-21T12:47:09.148027Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-21T12:47:09.399388Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-21T16:34:23.419242Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=7353
+2026-07-22T06:07:48.988609Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=4764
+2026-07-22T06:07:48.989317Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-22T06:07:49.226054Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-22T06:40:39.451101Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=4764
+2026-07-22T07:15:22.536893Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=3529
+2026-07-22T07:15:22.537633Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-22T07:15:22.642778Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-22T13:13:40.298186Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=3529
+2026-07-22T15:41:50.660220Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=3407
+2026-07-22T15:41:50.660912Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-22T15:41:50.897377Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-22T15:50:38.339590Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=3407
+2026-07-22T15:51:04.469534Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=14615
+2026-07-22T15:51:04.469584Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-22T15:51:04.648773Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-22T19:58:16.656852Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=14615
+2026-07-23T04:57:02.680339Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=3418
+2026-07-23T04:57:02.681091Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-23T04:57:02.917724Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-23T04:57:18.044813Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=3418
+2026-07-23T04:57:33.403374Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=8083
+2026-07-23T04:57:33.403460Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-23T04:57:33.639379Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-23T06:02:50.556563Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=8083
+2026-07-23T07:00:13.758634Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=3652
+2026-07-23T07:00:13.759385Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-23T07:00:13.998285Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-23T13:07:37.597064Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=3652
+2026-07-23T13:49:09.906154Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=3650
+2026-07-23T13:49:09.906949Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-23T13:49:10.122344Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-24T07:03:56.185950Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=12036
+2026-07-24T07:03:56.186800Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-24T07:03:56.403080Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-24T13:05:46.212523Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=12036
+2026-07-24T13:08:58.407002Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=213658
+2026-07-24T13:08:58.407048Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-24T13:08:58.435696Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-24T13:17:36.533582Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=213658
+2026-07-24T13:18:25.602094Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=220098
+2026-07-24T13:18:25.602135Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-24T13:18:25.833678Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-24T13:33:32.049776Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=220098
+2026-07-24T13:43:14.906576Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=3868
+2026-07-24T13:43:14.906846Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-24T13:43:15.125272Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-24T15:27:28.638811Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=3868
+2026-07-26T21:10:08.138706Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=4062
+2026-07-26T21:10:08.139313Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-26T21:10:08.368295Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-27T07:30:53.179762Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=12583
+2026-07-27T07:30:53.180378Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-27T07:30:53.413958Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-27T21:43:25.032924Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=12583
+2026-07-28T09:29:54.128609Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=20621
+2026-07-28T09:29:54.129205Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-28T09:29:54.350573Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-28T14:21:29.231070Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=20621
+2026-07-29T05:34:07.193916Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=4636
+2026-07-29T05:34:07.194661Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-29T05:34:07.405815Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-29T06:13:12.416045Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=4636
+2026-07-29T06:54:09.488929Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=3779
+2026-07-29T06:54:09.489151Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-29T06:54:09.493510Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-29T13:09:14.294347Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=3779
+2026-07-29T13:51:10.159033Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=3387
+2026-07-29T13:51:10.159210Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-29T13:51:10.164495Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-29T14:22:11.395171Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=3387
+2026-07-30T04:55:35.851952Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=3319
+2026-07-30T04:55:35.852323Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-30T04:55:36.069873Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-30T06:15:27.289891Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=3319
+2026-07-30T06:45:10.308894Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=3345
+2026-07-30T06:45:10.309931Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-30T06:45:10.536363Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-30T13:17:39.955561Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=3345
+2026-07-31T09:58:24.225006Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=4668
+2026-07-31T09:58:24.225983Z  INFO herdr::client: connecting to server path=/home/kamils/.config/herdr/herdr-client.sock
+2026-07-31T09:58:24.445170Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-31T19:52:13.286090Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=4668
