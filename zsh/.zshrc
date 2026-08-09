@@ -135,3 +135,6 @@ fpath+=~/.zfunc
 
 # SSH agent
 eval "$(ssh-agent -s)" > /dev/null
+
+# Golang
+export PATH="$PATH:/usr/local/go/bin"

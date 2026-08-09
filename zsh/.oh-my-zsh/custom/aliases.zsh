@@ -15,3 +15,6 @@ done
 alias gsw="git switch"
 
 alias osn='notesync'
+
+# Neovide
+alias nv="neovide & disown"
