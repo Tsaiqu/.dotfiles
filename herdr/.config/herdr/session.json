@@ -4,12 +4,12 @@
     {
       "id": "w3",
       "custom_name": "tes_monorepo",
-      "identity_cwd": "/home/kamils/workspace/TES_MONOREPO",
+      "identity_cwd": "/home/tsaiqu/workspace/TES_MONOREPO/microservices/chp_eff",
       "public_pane_numbers": {
-        "3": 7,
         "1": 16,
-        "2": 6,
-        "4": 10
+        "4": 10,
+        "3": 7,
+        "2": 6
       },
       "next_public_pane_number": 20,
       "public_tab_numbers": [
@@ -27,7 +27,13 @@
           },
           "panes": {
             "1": {
-              "cwd": "/home/kamils/workspace/TES_MONOREPO"
+              "cwd": "/home/tsaiqu/workspace/TES_MONOREPO/microservices/chp_eff",
+              "agent_session": {
+                "source": "herdr:claude",
+                "agent": "claude",
+                "kind": "id",
+                "value": "e975499a-0dfd-4618-8653-9bb11be361cb"
+              }
             }
           },
           "zoomed": false,
@@ -35,13 +41,13 @@
           "root_pane": 1
         },
         {
-          "custom_name": "currency",
+          "custom_name": "monorepo_nv",
           "layout": {
             "Pane": 2
           },
           "panes": {
             "2": {
-              "cwd": "/home/kamils/workspace/TES_MONOREPO/microservices/currency"
+              "cwd": "/home/tsaiqu/workspace/TES_MONOREPO/microservices/chp_eff"
             }
           },
           "zoomed": false,
@@ -55,7 +61,7 @@
           },
           "panes": {
             "3": {
-              "cwd": "/home/kamils/workspace/TES_MONOREPO/microservices/currency"
+              "cwd": "/home/tsaiqu"
             }
           },
           "zoomed": false,
@@ -69,7 +75,7 @@
           },
           "panes": {
             "4": {
-              "cwd": "/home/kamils/.config/nvim"
+              "cwd": "/home/tsaiqu/.dotfiles/nvim/.config/nvim"
             }
           },
           "zoomed": false,
@@ -77,12 +83,12 @@
           "root_pane": 4
         }
       ],
-      "active_tab": 1
+      "active_tab": 2
     },
     {
       "id": "w4",
-      "custom_name": "passman",
-      "identity_cwd": "/home/kamils/workspace/passman",
+      "custom_name": "budgetino",
+      "identity_cwd": "/home/tsaiqu/workspace/budgetio/packages/db",
       "public_pane_numbers": {
         "5": 1,
         "6": 2
@@ -95,13 +101,13 @@
       "next_public_tab_number": 3,
       "tabs": [
         {
-          "custom_name": "passman",
+          "custom_name": "budgetio",
           "layout": {
             "Pane": 5
           },
           "panes": {
             "5": {
-              "cwd": "/home/kamils/workspace/passman",
+              "cwd": "/home/tsaiqu/workspace/budgetio/packages/db",
               "label": "passman"
             }
           },
@@ -110,13 +116,19 @@
           "root_pane": 5
         },
         {
-          "custom_name": "claude",
+          "custom_name": "budgetio claude",
           "layout": {
             "Pane": 6
           },
           "panes": {
             "6": {
-              "cwd": "/home/kamils/workspace/passman"
+              "cwd": "/home/tsaiqu/workspace/budgetio",
+              "agent_session": {
+                "source": "herdr:claude",
+                "agent": "claude",
+                "kind": "id",
+                "value": "1b43e7e0-a7ce-4f93-bd18-31b0860d1284"
+              }
             }
           },
           "zoomed": false,
@@ -129,7 +141,7 @@
     {
       "id": "w5",
       "custom_name": "learning rust",
-      "identity_cwd": "/home/kamils/workspace/rustlings",
+      "identity_cwd": "/home/tsaiqu",
       "public_pane_numbers": {
         "8": 2,
         "7": 1
@@ -148,7 +160,7 @@
           },
           "panes": {
             "7": {
-              "cwd": "/home/kamils/workspace/rustlings"
+              "cwd": "/home/tsaiqu"
             }
           },
           "zoomed": false,
@@ -162,7 +174,7 @@
           },
           "panes": {
             "8": {
-              "cwd": "/home/kamils/workspace/learn_rust"
+              "cwd": "/home/tsaiqu"
             }
           },
           "zoomed": false,
@@ -175,7 +187,7 @@
     {
       "id": "w6",
       "custom_name": "general",
-      "identity_cwd": "/home/kamils",
+      "identity_cwd": "/home/tsaiqu/workspace",
       "public_pane_numbers": {
         "10": 3,
         "9": 1
@@ -194,7 +206,7 @@
           },
           "panes": {
             "9": {
-              "cwd": "/home/kamils"
+              "cwd": "/home/tsaiqu/workspace"
             }
           },
           "zoomed": false,
@@ -208,7 +220,7 @@
           },
           "panes": {
             "10": {
-              "cwd": "/home/kamils/.config/nvim"
+              "cwd": "/home/tsaiqu/.dotfiles/nvim/.config/nvim"
             }
           },
           "zoomed": false,
@@ -216,7 +228,7 @@
           "root_pane": 10
         }
       ],
-      "active_tab": 0
+      "active_tab": 1
     }
   ],
   "active": 0,

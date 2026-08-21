@@ -138,3 +138,10 @@ eval "$(ssh-agent -s)" > /dev/null
 
 # Golang
 export PATH="$PATH:/usr/local/go/bin"
+
+# bun completions
+[ -s "/home/tsaiqu/.bun/_bun" ] && source "/home/tsaiqu/.bun/_bun"
+
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
