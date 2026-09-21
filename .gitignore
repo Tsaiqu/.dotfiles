@@ -2,3 +2,13 @@
 
 *.log
 *.lock
+
+# herdr - stan runtime / cache aplikacji
+herdr/.config/herdr/session.json
+herdr/.config/herdr/release-notes.json
+herdr/.config/herdr/.~lock.*#
+
+# backupy
+*.bak
+*.bak-*
+*.backup*

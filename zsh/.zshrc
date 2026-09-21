@@ -134,7 +134,8 @@ export NVM_DIR="$HOME/.nvm"
 fpath+=~/.zfunc
 
 # SSH agent
-eval "$(ssh-agent -s)" > /dev/null
+# eval "$(ssh-agent -s)" > /dev/null
+export SSH_AUTH_SOCK="${XDG_RUNTIME_DIR}/ssh-agent.socket"
 
 # Golang
 export PATH="$PATH:/usr/local/go/bin"
@@ -145,3 +146,7 @@ export PATH="$PATH:/usr/local/go/bin"
 # bun
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
+
+# ssh keys
+# ssh-add ~/.ssh/priv_pc_github
+# ssh-add ~/.ssh/tes_azure

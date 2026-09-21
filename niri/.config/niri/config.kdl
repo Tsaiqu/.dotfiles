@@ -295,3 +295,7 @@ include "dms/cursor.kdl"
 
 
 include "dms/windowrules.kdl"
+
+// Wylacz znaki sygnalowe (^C ^\ ^Z) na VT sesji.
+// Bez tego trafiaja rownolegle do konsoli i ubijaja sesje greetd.
+spawn-at-startup "sh" "-c" "stty -F /dev/tty${XDG_VTNR:-1} -isig"
