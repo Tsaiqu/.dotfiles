@@ -3,36 +3,34 @@
   "workspaces": [
     {
       "id": "w3",
-      "custom_name": "tes_monorepo",
-      "identity_cwd": "/home/tsaiqu/workspace/TES_MONOREPO/microservices/chp_eff",
+      "custom_name": "psesys",
+      "identity_cwd": "/home/kamils/workspace/TES_MONOREPO/microservices/psesys",
       "public_pane_numbers": {
+        "2": 6,
         "1": 16,
-        "4": 10,
-        "3": 7,
-        "2": 6
+        "3": 10
       },
       "next_public_pane_number": 20,
       "public_tab_numbers": [
         13,
         3,
-        4,
         7
       ],
       "next_public_tab_number": 17,
       "tabs": [
         {
-          "custom_name": "monorepo",
+          "custom_name": "claude psesys",
           "layout": {
             "Pane": 1
           },
           "panes": {
             "1": {
-              "cwd": "/home/tsaiqu/workspace/TES_MONOREPO/microservices/chp_eff",
+              "cwd": "/home/kamils/workspace/TES_MONOREPO/microservices/psesys",
               "agent_session": {
                 "source": "herdr:claude",
                 "agent": "claude",
                 "kind": "id",
-                "value": "e975499a-0dfd-4618-8653-9bb11be361cb"
+                "value": "021aed4f-619e-49f0-a1ee-27b0e988d6ea"
               }
             }
           },
@@ -41,13 +39,13 @@
           "root_pane": 1
         },
         {
-          "custom_name": "monorepo_nv",
+          "custom_name": "psesys",
           "layout": {
             "Pane": 2
           },
           "panes": {
             "2": {
-              "cwd": "/home/tsaiqu/workspace/TES_MONOREPO/microservices/chp_eff"
+              "cwd": "/home/kamils/workspace/TES_MONOREPO/microservices/psesys"
             }
           },
           "zoomed": false,
@@ -55,45 +53,31 @@
           "root_pane": 2
         },
         {
-          "custom_name": "features",
+          "custom_name": "claude_nvim_config",
           "layout": {
             "Pane": 3
           },
           "panes": {
             "3": {
-              "cwd": "/home/tsaiqu"
+              "cwd": "/home/kamils"
             }
           },
           "zoomed": false,
           "focused": 3,
           "root_pane": 3
-        },
-        {
-          "custom_name": "claude_nvim_config",
-          "layout": {
-            "Pane": 4
-          },
-          "panes": {
-            "4": {
-              "cwd": "/home/tsaiqu/.dotfiles/nvim/.config/nvim"
-            }
-          },
-          "zoomed": false,
-          "focused": 4,
-          "root_pane": 4
         }
       ],
-      "active_tab": 2
+      "active_tab": 1
     },
     {
-      "id": "w4",
-      "custom_name": "budgetino",
-      "identity_cwd": "/home/tsaiqu/workspace/budgetio/packages/db",
+      "id": "w7",
+      "custom_name": "chp_eff_curve",
+      "identity_cwd": "/home/kamils/workspace/TES_MONOREPO/microservices/chp_eff_curve",
       "public_pane_numbers": {
-        "5": 1,
-        "6": 2
+        "4": 1,
+        "5": 2
       },
-      "next_public_pane_number": 3,
+      "next_public_pane_number": 5,
       "public_tab_numbers": [
         1,
         2
@@ -101,33 +85,68 @@
       "next_public_tab_number": 3,
       "tabs": [
         {
-          "custom_name": "budgetio",
+          "custom_name": "claude chp_eff_curve",
+          "layout": {
+            "Pane": 4
+          },
+          "panes": {
+            "4": {
+              "cwd": "/home/kamils/workspace/TES_MONOREPO/microservices/chp_eff_curve",
+              "agent_session": {
+                "source": "herdr:claude",
+                "agent": "claude",
+                "kind": "id",
+                "value": "636b7753-189e-4392-85f0-4e6329cdf3e3"
+              }
+            }
+          },
+          "zoomed": false,
+          "focused": 4,
+          "root_pane": 4
+        },
+        {
+          "custom_name": "chp_eff_curve",
           "layout": {
             "Pane": 5
           },
           "panes": {
             "5": {
-              "cwd": "/home/tsaiqu/workspace/budgetio/packages/db",
-              "label": "passman"
+              "cwd": "/home/kamils/workspace/TES_MONOREPO/microservices/chp_eff_curve"
             }
           },
           "zoomed": false,
           "focused": 5,
           "root_pane": 5
-        },
+        }
+      ],
+      "active_tab": 1
+    },
+    {
+      "id": "w8",
+      "custom_name": "chp_eff",
+      "identity_cwd": "/home/kamils/workspace/TES_MONOREPO/microservices/chp_eff",
+      "public_pane_numbers": {
+        "6": 1
+      },
+      "next_public_pane_number": 2,
+      "public_tab_numbers": [
+        1
+      ],
+      "next_public_tab_number": 2,
+      "tabs": [
         {
-          "custom_name": "budgetio claude",
+          "custom_name": "chp_eff",
           "layout": {
             "Pane": 6
           },
           "panes": {
             "6": {
-              "cwd": "/home/tsaiqu/workspace/budgetio",
+              "cwd": "/home/kamils/workspace/TES_MONOREPO/microservices/chp_eff",
               "agent_session": {
                 "source": "herdr:claude",
                 "agent": "claude",
                 "kind": "id",
-                "value": "1b43e7e0-a7ce-4f93-bd18-31b0860d1284"
+                "value": "311363f7-07a9-40d2-9818-602cd616076f"
               }
             }
           },
@@ -136,104 +155,12 @@
           "root_pane": 6
         }
       ],
-      "active_tab": 1
-    },
-    {
-      "id": "w5",
-      "custom_name": "learning rust",
-      "identity_cwd": "/home/tsaiqu",
-      "public_pane_numbers": {
-        "8": 2,
-        "7": 1
-      },
-      "next_public_pane_number": 3,
-      "public_tab_numbers": [
-        1,
-        2
-      ],
-      "next_public_tab_number": 3,
-      "tabs": [
-        {
-          "custom_name": "rust",
-          "layout": {
-            "Pane": 7
-          },
-          "panes": {
-            "7": {
-              "cwd": "/home/tsaiqu"
-            }
-          },
-          "zoomed": false,
-          "focused": 7,
-          "root_pane": 7
-        },
-        {
-          "custom_name": "claude",
-          "layout": {
-            "Pane": 8
-          },
-          "panes": {
-            "8": {
-              "cwd": "/home/tsaiqu"
-            }
-          },
-          "zoomed": false,
-          "focused": 8,
-          "root_pane": 8
-        }
-      ],
-      "active_tab": 1
-    },
-    {
-      "id": "w6",
-      "custom_name": "general",
-      "identity_cwd": "/home/tsaiqu/workspace",
-      "public_pane_numbers": {
-        "10": 3,
-        "9": 1
-      },
-      "next_public_pane_number": 4,
-      "public_tab_numbers": [
-        1,
-        3
-      ],
-      "next_public_tab_number": 4,
-      "tabs": [
-        {
-          "custom_name": "general",
-          "layout": {
-            "Pane": 9
-          },
-          "panes": {
-            "9": {
-              "cwd": "/home/tsaiqu/workspace"
-            }
-          },
-          "zoomed": false,
-          "focused": 9,
-          "root_pane": 9
-        },
-        {
-          "custom_name": "nvim_config",
-          "layout": {
-            "Pane": 10
-          },
-          "panes": {
-            "10": {
-              "cwd": "/home/tsaiqu/.dotfiles/nvim/.config/nvim"
-            }
-          },
-          "zoomed": false,
-          "focused": 10,
-          "root_pane": 10
-        }
-      ],
-      "active_tab": 1
+      "active_tab": 0
     }
   ],
-  "active": 0,
-  "selected": 0,
-  "sidebar_width": 26,
-  "sidebar_section_split": 0.5,
+  "active": 1,
+  "selected": 1,
+  "sidebar_width": null,
+  "sidebar_section_split": null,
   "collapsed_space_keys": []
 }
