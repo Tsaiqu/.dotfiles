@@ -1,0 +1,14 @@
+[user]
+	name = KamilS
+	email = ksasin3@gmail.com
+[core]
+	pager = bat
+	commentchar = //
+[submodule]
+	recurse = true
+[push]
+	recurseSubmodules = check
+[status]
+	submoduleSummary = true
+[diff]
+	submodule = log
