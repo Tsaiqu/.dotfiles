@@ -11,6 +11,11 @@ prefix = "ctrl+space"
 switch_tab = "alt+1..9"
 switch_workspace = "prefix+1..9"
 focus_agent = "prefix+alt+1..9"
+focus_pane_left = "alt+h"
+focus_pane_right = "alt+l"
+focus_pane_up = "alt+k"
+focus_pane_down = "alt+j"
+zoom = "alt+f"
 
 [advanced]
 scrollback_limit_bytes = 10485760 
