@@ -299,3 +299,15 @@ include "dms/windowrules.kdl"
 // Wylacz znaki sygnalowe (^C ^\ ^Z) na VT sesji.
 // Bez tego trafiaja rownolegle do konsoli i ubijaja sesje greetd.
 spawn-at-startup "sh" "-c" "stty -F /dev/tty${XDG_VTNR:-1} -isig"
+
+// Spokenly: pastylka dyktowania bez ramki/focus-ringa/cienia
+window-rule {
+    match app-id="^Spokenly$" title="^Recording$"
+    focus-ring { off; }
+    border { off; }
+    shadow { off; }
+    draw-border-with-background false
+    open-focused false
+    opacity 1.0
+    default-floating-position x=0 y=40 relative-to="bottom"
+}
