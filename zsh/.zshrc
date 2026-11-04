@@ -150,3 +150,4 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 # ssh keys
 # ssh-add ~/.ssh/priv_pc_github
 # ssh-add ~/.ssh/tes_azure
+export _ZO_DOCTOR=0

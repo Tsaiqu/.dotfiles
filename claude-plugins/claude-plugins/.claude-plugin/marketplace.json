@@ -1,0 +1,5 @@
+{
+  "name": "local",
+  "owner": { "name": "Tsaiqu" },
+  "plugins": [{ "name": "basedpyright-lsp", "source": "./basedpyright-lsp" }]
+}
